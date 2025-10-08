@@ -8,10 +8,10 @@ This project represents the implementation of a messaging system, in which
 clients (TCP) subscribe to a topic*, and then the server sends
 to these subscribers who are connected messages on that topic transmitted by UDP clients*, messages which can have different data types*.
 
-* *TCP clients – connect to the server and can subscribe/unsubscribe from a topic
-* *UDP clients – send messages on a topic
-* *Topic – a string that can have the form: topic1/topic2/..., and can include wildcard characters: * (can be replaced with 0 or any number of topic levels) and + (can be replaced with exactly one topic level)
-* *Data types – messages can be of type: INT, SHORT_REAL, FLOAT, STRING
+* TCP clients – connect to the server and can subscribe/unsubscribe from a topic
+* UDP clients – send messages on a topic
+* Topic – a string that can have the form: topic1/topic2/..., and can include wildcard characters: * (can be replaced with 0 or any number of topic levels) and + (can be replaced with exactly one topic level)
+* Data types – messages can be of type: INT, SHORT_REAL, FLOAT, STRING
 
 ### Implementation Details
 
