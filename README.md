@@ -1,5 +1,5 @@
 # TCP/UDP Client-Server Messaging System
-## Copyright 2022 Nedelcu Andrei-David
+## Copyright 2023 Nedelcu Andrei-David
 ___________________________________________________________________________________________
 
 ### Description
