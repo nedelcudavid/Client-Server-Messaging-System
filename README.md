@@ -1,4 +1,4 @@
-# My Octave
+# TCP/UDP Client-Server Messaging System
 ## Copyright 2022 Nedelcu Andrei-David
 ___________________________________________________________________________________________
 
